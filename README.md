@@ -24,5 +24,5 @@ Overall, this script provides a basic login interface using customtkinter and al
 - Make your database on MYSQL
 - Clone This Repository
 - pip install -r requirements.txt
-- Run py cpstart.py
+- Run py Login.py
 
