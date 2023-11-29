@@ -1,0 +1,4 @@
+customtkinter
+Pillow
+tkinter
+mysql-connector-python
